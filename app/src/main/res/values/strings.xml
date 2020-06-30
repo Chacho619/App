@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title">Menu</string>
+    <string name="title2">Tu orden</string>
+    <string name="title3">Usuario</string>
+    <string name="title4">Orden</string>
+    <string name="title5">Anadir tarjeta</string>
+    <string name="product">BBQ Ribs</string>
+    <string name="food">Una libra (453g) de nuestras \ntradicionales costillas BBQ</string>
+    <string name="price">MXN 330.00</string>
+    <string name="product2">Brisket Sandwich</string>
+    <string name="food2">Con rebanadas de brisket ahumado \npor 14 horas,cebolla y pepinillos</string>
+    <string name="price2">MXN 189.00</string>
+    <string name="order">VER ORDEN</string>
+
+    <string name="name">Apellido</string>
+    <string name="nameone">Gutierrez</string>
+    <string name="mail">Email</string>
+    <string name="mailo">davidtrejo@hotmail.com</string>
+    <string name="number">Visa...9807</string>
+    <string name="edit">Editar</string>
+    <string name="nubert">Numero de tarjeta</string>
+    <string name="date">Fecha de caducidad</string>
+    <string name="cvv">cvv</string>
+
+    <string name="pick">Pick-up</string>
+    <string name="revisar">Cuando estes listo para recoger tu orden por \nfavor revisa la orden y recibe un estimado de \ntiempo para recoger</string>
+    <string name="Ribs">BBQ Ribs \nCantidad: 1</string>
+    <string name="total">Total</string>
+    <string name="items">Items in order (1)</string>
+    <string name="total2">Total de orden</string>
+    <string name="infouser">Informacion del usuario</string>
+    <string name="edit1">Editar informacion</string>
+
+    <string name="information">Informacion</string>
+    <string name="pay">Pago</string>
+
+    <string name="pending">Preparando</string>
+    <string name="prepare">Pendiente</string>
+    <string name="ent">Entrega</string>
+    <string name="order2">Sigue tu orden</string>
+    <string name="location">UBICACION</string>
+    <string name="check">Check-in tu orden cuando llegue. Esto \nasegurara que tu comida llegue lo mas \nfresco posible</string>
+    <string name="check2">CHECK-IN</string>
+    <string name="warning">Si necesitas mas tiempo, puedes dar \ncheck-in en tu orden, en cualquier \nmomento.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
